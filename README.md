@@ -64,6 +64,26 @@ It is like a disk drive to store once and zeroes.We can create database in our p
 4. There are a data engineer and a data scientist in your company that makes decision on the behalf of the company data that creates a better macine learnign algorithms that give a better information to the users.
 5. We have database administrators and databse engineers who install the database software and maintain the database they install database and update software of database.They use hadoop amazone redchip etc.
 
+#### We can learn that.
+1. How to put data in DB.
+2. How to use/update/learn from data.
+3. How to remove data.
+
+#### What is thissssssssssss....
+1. Datbase Management system.
+2. Relational database management system.
+3. Structured Query language.
+
+##### DBMS is a software and a program to manage database it recieves information somebody like us that wants something with data and instruct the system the data base to grab that data and make chages to that data.
+
+##### Relational Database management system is a subset of dbms it is a most used most popular type of database.It is used to setup relation among different data records.
+
+##### SQL is language to communicate with databases or dbms and rdbms.
+
+Example:like thik that we have a data so we have to use RDBMS(postgreSQL) that gives some functions to create databse and manage database.Both DATA + DBMS is combines to make a database.And at last finally we have sql (structured query language) outside our database its not a programming language its a query language.It gives powser like developer to communicate with that databse.Its like a simple english language.
+
+Listen by using sql it doesnt mean that we are here to manage only a single type of database like posrgreSQL.By learnig SQL we can interact eith lots of databases like MAriaDB,SQL server,MySQL,oracleDB,SQLite,PostgreSQL.
+
 
 
 
