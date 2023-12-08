@@ -87,6 +87,14 @@ Listen by using sql it doesnt mean that we are here to manage only a single type
 (LINK for Practice SQL https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
 
 ## Types of Databases
+There are hundreds of databases are there but you have to know about only few of them.
+Databases are mainly divided into five categories.
+
+1. Relational model.(Postgrace).
+2. Document model.(mongoDB,caugh,Firebase they use document model)
+3. Key value databases(Radis,dynamodb,all have key value storage system).
+4. Graph model databases.(comples and rarely use)
+5. Wide columinar(new and allpy googles big table,apachi,casendra)
 
 
 
