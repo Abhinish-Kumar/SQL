@@ -96,7 +96,10 @@ Databases are mainly divided into five categories.
 4. Graph model databases.(comples and rarely use)
 5. Wide columinar(new and allpy googles big table,apachi,casendra)
 
+#### A database is a system of hardware and software that allow a user to store and organize and use data.
 
+
+# Database + SQL fundamentals
 
 
 
