@@ -84,6 +84,9 @@ Example:like thik that we have a data so we have to use RDBMS(postgreSQL) that g
 
 Listen by using sql it doesnt mean that we are here to manage only a single type of database like posrgreSQL.By learnig SQL we can interact eith lots of databases like MAriaDB,SQL server,MySQL,oracleDB,SQLite,PostgreSQL.
 
+(LINK for Practice SQL https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
+
+## Types of Databases
 
 
 
