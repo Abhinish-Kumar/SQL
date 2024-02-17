@@ -200,8 +200,9 @@ There are many database models are there we have
 We cover herirchical and networking model because they are old and we master relational model.
 
 
-## 
+## Hierarchical model
 
+It is a old model primarily used by IBM in 1960-1970 it is unefficient way to store data thats why people donot use it now a days. It has a tree like structure having a single child and 
 
 
 
