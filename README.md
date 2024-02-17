@@ -145,6 +145,28 @@ Sql is a declarative language.
 
 ## Imperitive vs Declarative
 
+### Declarative language :- 
+it is a language where we say WHAT WILL HAPPEN but we not specify clearly How it will happen
+
+### Imperative Programming :-
+Declarative means we have to define that HOW IT WILL HAPPEN In it we give line by line instruction do that and that and that.And in decalrative we say GIVE ME THIS.
+
+
+Like for making sandwitch in decalaritive approach we say give me sandwitch and in inperative we take substance to make sandwitch and prepare it by own with proper instructions. 
+
+SQL is declarative and java is imperative language but python is both imperative and declarative you can do both with it.
+Declarative is simple and imperative is complex but very powerful.
+
+
+## History of SQL?
+
+
+The original name of sql is sequel we can use both of this name sequal stands for structured english query language
+
+
+
+
+
 
 
 
