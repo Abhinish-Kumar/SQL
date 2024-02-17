@@ -161,17 +161,21 @@ Declarative is simple and imperative is complex but very powerful.
 ## History of SQL?
 
 
-The original name of sql is sequel we can use both of this name sequal stands for structured english query language
+The original name of sql is sequel we can use both of this name sequal stands for structured english query language. Its name was chnged because of the copyright clam.
+In 1970 a programmer in IBM named   ....... wrote a paper that set  the standard for databases and sql his papaer are called a relational model of data for large shared data banks.
+Two people from IBM implement his vesion They created the very first version of sql. They create language and software to amnage databases. These two people from IBM based on his ideas  wrote the original version of sql and make sql a standard language for database.
+
+## SQL Standards
+
+SQL is a language that used to tawlk to databases and lot of different companies make databases they sypply databases. Mysql,postgress,oracle all these companies supply databases but they all uses SQL. SQL is a widely addopted language. Companies take the sql language and add some new features to it and make a standard to make it efficient according to their data base. These companies do this because of increasing the use of their database so they add more and new features to their databases.
 
 
 
+## What is a Databse?
 
+Before databases we have FIle processing systems In it you save your data in individual files and there is no relationship between the data you simply created a system to save a particular type of data You have to use different copy of same data in different file that make it difficult to update data because all files are individual programmers make this software to manage their data thats why we call it a file processing system. IN this model server directly tawlk to machine or storage device it is difficult because you have to do all these management in python or java. We have to create different system or architecture to sote different type of data there is no common model. These problems are handled by database oriented approach.
 
-
-
-
-
-
+## Database Oriented Approach.
 
 
 
