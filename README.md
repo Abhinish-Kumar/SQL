@@ -177,6 +177,32 @@ Before databases we have FIle processing systems In it you save your data in ind
 
 ## Database Oriented Approach.
 
+People use database approach to make it simple. Database Approach :- a software utilize to manage database and it is called as database management software its purpose it to put all given constrans at a place in database and used to manage our data. It do this by following a model. Different databases software follows different models. 
+This is a single piece of software that promise to you that if you follow this way to save your data i do all the management for you that is what a database management software did.
+You can create different sections to store different type of data in data base and stablish the relationship between these databases by usign database management software.
+
+Before a user uses a computer system that directly tawlk to the storage or database by having a custom software between them. Now a new thing called DBMS is introduced between computer and storage device this software take care of all the things and give you a simple and common  interface and a way to handle your database. It is handled by a specific language called structured query language.
+Each DBMS has their own database model.
+
+
+## Database Model
+
+There are many database models are there we have
+
+1. Herarchical
+2. Networking
+3. Entity-relationshi[
+4. Relational
+5. Object oriented
+6. Flat
+7. Semi-structured
+
+We cover herirchical and networking model because they are old and we master relational model.
+
+
+## 
+
+
 
 
 
