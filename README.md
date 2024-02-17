@@ -139,7 +139,11 @@ select student from users;
 4. ROLE = "MANAGER" is a condition
 5. The whole thing is called as sql statement.
 
+In this sql statement we are filtering the data for getting managet.
+Identifier is just a word to define a part of data.
+Sql is a declarative language.
 
+## Imperitive vs Declarative
 
 
 
