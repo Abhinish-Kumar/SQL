@@ -202,7 +202,52 @@ We cover herirchical and networking model because they are old and we master rel
 
 ## Hierarchical model
 
-It is a old model primarily used by IBM in 1960-1970 it is unefficient way to store data thats why people donot use it now a days. It has a tree like structure having a single child and 
+It is a old model primarily used by IBM in 1960-1970 it is unefficient way to store data thats why people donot use it now a days. It has a tree like structure having a single root parent for a single child.It is like a XML data which is a document like and its data can be stored in tree like structure because of having nested files. But in it if you delete a root or a parent element its child automatically been deleted. It uses one to many relationship one parent have many children.
+
+## Networking model
+ It is a expended version of herarchical model that allows many to many relationship. In it child entity could have multiple parents. It is difficult to manage relationship in it.
+
+
+## Relational model
+
+It follow a table structure ,organize your data in table and make relationship between tables and in it all tables have a specific name for column. We took a unique id that uniquely identify the table data. We have lots of concep in it to draw relationship between table or data.
+
+The logic of how the relationship are linked are handled by the database management software.
+
+
+## What is DBMS (software)?
+
+It is like a superwiser to manage our data in database i know all the rules that you want to store your data i know your model you only need to give me a sql query i know how to give your data and give back to you. It is like a referee who tells you that heyy you can not store your data like this 
+.See what a DBMS can do (CRUD).It is used to perform crud operation.
+
+1. Create
+2. Read
+3. Update
+4. Delete
+
+Because it is present between sql and your database, so it says that you want to create your database lets create it.
+
+1. It is used to save your data at right place.
+2. It secure your data
+3. Used to do transection management
+
+
+3.4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
