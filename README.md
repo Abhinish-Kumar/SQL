@@ -101,14 +101,43 @@ Databases are mainly divided into five categories.
 
 # Database + SQL fundamentals
 
+## What is SQL?
+SQL is a language that we use to tawlk to our database. It is a programming language it means it has a set of rules to do communication with database. Database data is nothing but a structured setup data. You can not store tech companies data in a flat file or on excel sheet. To communicate with database we write statements in sql or sql queries. that are instructions to perform certain operation in database.
 
 
+## What is a Query?
+A Query is nothing but instruction. In english query is question so in our statement we use question and to which we want our answer from database. SQL query is also called as SQL statement.Eg
+
+```sql
+
+SELECT * FROM USERS
+
+```
+
+Sql statement is the synoniom of query.
+
+In abouve statement we use select to select all because we use * which is a wild card from is used to where we have to get the data. USERS say that we have to get the data from user section in our database.
+
+```sql
+
+select student from users;
+
+```
+### Explain structure
+
+```sql
+
+ Clause { SELECT NAME
+ Clause { FROM USERS
+  Clause { WHERE ROLE = "MANAGER";
 
 
-
-
-
-
+```
+1. SELECT FROM WHERE are Keywords
+2. NAME USERS ROLE are Identifiers
+3. "MANAGER" is Expression.
+4. ROLE = "MANAGER" is a condition
+5. The whole thing is called as sql statement.
 
 
 
