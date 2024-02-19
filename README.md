@@ -232,7 +232,59 @@ Because it is present between sql and your database, so it says that you want to
 3. Used to do transection management
 
 
-3.4
+## Who is making the database software?
+
+1. Microsoft has SQL server
+2. My sql
+3. Postgress
+4. oracle
+
+These are the big companies that makes the database software
+
+All software are different but they all are operated with sql and used to perform same operation like CRUDE operation.
+
+
+## How they are related to each other?
+
+Suppose the DBMS is a chef and SQL is a customer and DATABASE is a type of cooking.
+
+1. Chef can create any dish you want but every shef has different method to do same thing in their mind.
+2. SQL , at the end if you want pizza then you only have to tell the Chef to give me a pizza some cheff are good and some are not it depends on prize.
+3. Every DBMS(chef) have their different Recipy book and in interect with database differently. How to put the data in database and how to manage all these.
+4. DBMS is connected with both database and on other hand it is controlled by SQL.
+5. A signgle DBMS can handle multiple databases.
+
+
+## DBMS?RDBMS?
+DBMS is a seneral term to a software that is going to manage our database.
+Database which is specially a relational database model is called RDBMS.
+
+## 13 Rules of CoDD.
+A databse management system is called as relational database management system if it follow these 13 rules.
+
+
+Each and every database follow a specific way to store data is called as model each model has their rules to store data.
+
+we use Relational Model and the key concept are like:
+1. Relational Schema
+2. Attribute
+3. Degree
+4. Cardinality
+5. Tuple
+6. Column
+7. Relationa Key
+8. Domain
+9. Tables
+10. Relation
+11. Instance
+
+
+# 1. Tables
+
+What are table and why it is present in relational model
+
+
+
 
 
 
