@@ -281,10 +281,27 @@ we use Relational Model and the key concept are like:
 
 # 1. Tables
 
-What are table and why it is present in relational model
+What is a  table and why it is present in relational model. We will know hoe to break down data into entities or objects it could be student teacher and school and table is the representaion of that record. Each table has a name which is related to the data that we store in it. It is like an excellsheet and give it a name.
+
+1. At top we have column and each column represents a specific data like id,name,lastname sex dob.
+2. And We also have row in our table and each row represent a single peace of data for that table.eg 333 abhi kumar male.
+3. If we compare it with excell sheet like excell we can use different name for different category of data and like excel having A B C we have specific things at top of table like ID Name sex. And like 1 2 3 4 present in excel we have single data in table.
 
 
+## Column
 
+Top to bottom line is called as column. Each column has a specific data to store and rach column has a name. 1 single column is called as column but what we call a collection of column We call it DEGREE of relation. The degree of user is id name sex.
+
+### What a column can store 
+
+The name of the column is called as domain/constraint like in DOB we can only store Date of birth . Here you are constraining the data that only put this data on this field.
+In another way we can say about column that my table has these attributes with this constrains.
+We can use any one of that.
+Every table has columns and columns are also called as attributes and the collection of column is called as degree and every column may or may not specifically has to say that store this type of data.
+
+## Rows/tuples
+A line go from left to right is called as row.
+A table is a collection of columns and rows. Columns are special because they have a specific type of data and each and every column has a constrain or a attribute domain. Row is used to inser a new data or entitity. A touple is nothing but a single record of data. 1 Touple means one single row of data. Each and every touple follow the column constrains. A collection of rows/topules are called as CARDNALITY.
 
 
 
