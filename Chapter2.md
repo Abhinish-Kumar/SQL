@@ -56,7 +56,20 @@ There are some more functionality we have to get only specific data.
 
 
 
+ROUGH 
 
+```sql
+//create table
+-- CREATE TABLE student(ID INT ,FIrstName VARCHAR(50),LastName VARCHAR(50),Age INT);
+
+//insert into table
+-- INSERT INTO student(ID,FIrstName,LastName,Age) VALUES(1,'ABhinish','Kumar',23);
+INSERT INTO student(ID,FIrstName,LastName,Age) VALUES(2,'Rahul','Roy',26);
+
+//get table
+SELECT * from student;
+
+```
 
 
 
